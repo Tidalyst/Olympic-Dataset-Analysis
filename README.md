@@ -1,3 +1,5 @@
+# Olympics Games Analysis
+
 ## Executive Summary
 
 This project analyzes over 120 years of Olympic athlete participation and performance data to uncover trends in country success, athlete achievements, medal distribution, participation patterns, and gender representation.
@@ -104,7 +106,7 @@ The following data quality checks and transformations were performed:
 
 A star-schema model was implemented in Power BI.
 
-
+<img width="458" height="316" alt="Data Modelling" src="https://github.com/user-attachments/assets/bea17b24-66f7-48cc-8e43-8bb8ff5589ff" />
 
 
 ### Fact Table
@@ -142,9 +144,6 @@ The 2008 Olympic Games recorded the highest medal distribution. Athletics record
 
 ## Key Insights
 ### Country Performance
-
-<img width="6150" height="3525" alt="Olympic Project - Country Performance" src="https://github.com/user-attachments/assets/9a41c5ee-48f1-489b-81f8-ebd3639bf77d" />
-
 - The **United States** recorded the highest athlete participation and overall medal count.
 - **Germany** recorded the highest athlete participation among European countries.
 - Medal success remained concentrated among a relatively small number of nations.
@@ -167,6 +166,8 @@ The 2008 Olympic Games recorded the highest medal distribution. Athletics record
 
 **Purpose:** Analyze country-level Olympic performance across time.
 
+<img width="6150" height="3525" alt="Olympic Project - Country Performance" src="https://github.com/user-attachments/assets/9a41c5ee-48f1-489b-81f8-ebd3639bf77d" />
+
 ### Key Metrics
 
 - Total Medals
@@ -178,10 +179,12 @@ The 2008 Olympic Games recorded the highest medal distribution. Athletics record
 
 
 
-
 ### Dashboard 2: Athlete Performance
 
 **Purpose:** Evaluate athlete achievements across sports and Olympic Games.
+
+<img width="6150" height="3525" alt="Olympic Project - Athletes Performance" src="https://github.com/user-attachments/assets/7b528858-1119-4927-8126-2060317ab6ab" />
+
 
 ### Key Metrics
 
@@ -192,11 +195,12 @@ The 2008 Olympic Games recorded the highest medal distribution. Athletics record
 - Gold Medal Count
 
 
-
-
 ### Dashboard 3: Gender Participation
 
 **Purpose:** Analyze participation trends and athlete demographics.
+
+<img width="6150" height="3525" alt="Olympic Project - Gender Participation" src="https://github.com/user-attachments/assets/9310e1b6-f8f1-46d3-951c-99ebecee20e7" />
+
 
 ### Key Metrics
 
