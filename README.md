@@ -26,7 +26,7 @@ The final deliverable consists of three interactive Power BI dashboards designed
 
 The analysis was performed using an altered version of the 120 Years of Olympic History: Athletes and Results dataset.
 
-## Dataset Summary
+### Dataset Summary
 
 | Metric |	Value   |
 |--------|----------|
@@ -101,7 +101,8 @@ The following data quality checks and transformations were performed:
 | Weight |	61,527 |
 | Medal	229,896
 
-### Data Modeling
+
+## Data Modeling
 
 A star-schema model was implemented in Power BI.
 
@@ -115,7 +116,7 @@ A star-schema model was implemented in Power BI.
 - Dim Games
 - NOC Regions
 
-### Dimension tables were created from referenced copies of the fact table in Power Query by extracting distinct values and removing duplicates.
+**Dimension tables were created from referenced copies of the fact table in Power Query by extracting distinct values and removing duplicates.**
 
 ## Exploratory Data Analysis
 ### Athlete Demographics
@@ -140,20 +141,20 @@ The 2008 Olympic Games recorded the highest medal distribution. Athletics record
 
 ## Key Insights
 ### Country Performance
-- The United States recorded the highest athlete participation and overall medal count.
-- Germany recorded the highest athlete participation among European countries.
+- The **United States** recorded the highest athlete participation and overall medal count.
+- **Germany** recorded the highest athlete participation among European countries.
 - Medal success remained concentrated among a relatively small number of nations.
-- London recorded the highest cumulative athlete participation across hosted Olympic editions.
+- **London** recorded the highest cumulative athlete participation across hosted Olympic editions.
 
 ### Athlete Performance
-- Michael Phelps emerged as the most decorated Olympian with 28 Olympic medals, including 23 Gold medals.
-- Athletics recorded approximately 38,624 athlete entries and 3,969 medals awarded.
-- Approximately 21% of athletes won at least one Olympic medal, highlighting the competitive nature of Olympic participation.
+- **Michael Phelps** emerged as the most decorated Olympian with **28 Olympic medals**, including **23 Gold medals**.
+- Athletics recorded approximately **38,624 athlete** entries and **3,969 medals** awarded.
+- Approximately **21% of athletes** won at least one Olympic medal, highlighting the competitive nature of Olympic participation.
 
 ### Gender Participation
-- Female participation increased significantly throughout Olympic history.
-- The highest female participation was recorded during the 2016 Olympic Games.
-- Athletics remained the most participated sport among both male and female athletes.
+- **Female** participation increased significantly throughout Olympic history.
+- The highest female participation was recorded during the **2016 Olympic Games**.
+-** Athletics** remained the most participated sport among both male and female athletes.
 - Participation levels varied significantly across countrie.
 
 
