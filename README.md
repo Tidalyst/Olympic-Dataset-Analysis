@@ -240,3 +240,5 @@ Countries with historically low participation may benefit from international spo
 This project transformed a large and complex Olympic dataset into a structured analytical solution through data cleaning, exploratory analysis, data modeling, and dashboard development.
 
 The analysis revealed meaningful insights into Olympic participation, athlete demographics, country performance, medal distribution, and gender representation. The resulting Power BI dashboards provide an interactive platform for exploring Olympic history and support data-driven understanding of long-term Olympic trends.
+
+[Interact with Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzYyYTMzZGUtZDMwOC00MzZhLWE0MzYtMTIxY2ZhY2ZlNzI3IiwidCI6ImMzMTIwMjdlLTFmYWUtNDIwYi04NGI4LTJjOTBjOTFmNGI5YyJ9)
