@@ -106,6 +106,8 @@ The following data quality checks and transformations were performed:
 
 A star-schema model was implemented in Power BI.
 
+!(images/ Data Modelling.png)
+
 ### Fact Table
 - Olympic Athlete Events
 
