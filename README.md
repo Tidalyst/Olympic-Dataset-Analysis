@@ -1,3 +1,4 @@
+<img width="6150" height="3525" alt="Olympic Project - Country Performance" src="https://github.com/user-attachments/assets/9a41c5ee-48f1-489b-81f8-ebd3639bf77d" />
 # Olympic-Dataset-Analysis
 
 ## Executive Summary
@@ -106,7 +107,8 @@ The following data quality checks and transformations were performed:
 
 A star-schema model was implemented in Power BI.
 
-![Data Modelling] (Data%20Modelling.png)
+<img width="6150" height="3525" alt="Olympic Project - Country Performance" src="https://github.com/user-attachments/assets/2cdbea6f-96b6-490a-b8af-fe121b2d0fff" />
+
 
 ### Fact Table
 - Olympic Athlete Events
