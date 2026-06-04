@@ -1,6 +1,3 @@
-<img width="6150" height="3525" alt="Olympic Project - Country Performance" src="https://github.com/user-attachments/assets/9a41c5ee-48f1-489b-81f8-ebd3639bf77d" />
-# Olympic-Dataset-Analysis
-
 ## Executive Summary
 
 This project analyzes over 120 years of Olympic athlete participation and performance data to uncover trends in country success, athlete achievements, medal distribution, participation patterns, and gender representation.
@@ -107,7 +104,7 @@ The following data quality checks and transformations were performed:
 
 A star-schema model was implemented in Power BI.
 
-<img width="6150" height="3525" alt="Olympic Project - Country Performance" src="https://github.com/user-attachments/assets/2cdbea6f-96b6-490a-b8af-fe121b2d0fff" />
+
 
 
 ### Fact Table
@@ -145,6 +142,9 @@ The 2008 Olympic Games recorded the highest medal distribution. Athletics record
 
 ## Key Insights
 ### Country Performance
+
+<img width="6150" height="3525" alt="Olympic Project - Country Performance" src="https://github.com/user-attachments/assets/9a41c5ee-48f1-489b-81f8-ebd3639bf77d" />
+
 - The **United States** recorded the highest athlete participation and overall medal count.
 - **Germany** recorded the highest athlete participation among European countries.
 - Medal success remained concentrated among a relatively small number of nations.
